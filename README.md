@@ -24,26 +24,7 @@ This project highlights two distinct editorial looks featuring strong fashion ae
 
 ---
 
-# 🔥 Editorial Portrait Showcase
 
-This project highlights two distinct editorial looks featuring strong fashion aesthetics and lighting.
-
-## 🖼️ Portrait in Red Blazer
-
-![Red Blazer Portrait](./images/red_blazer.png)
-
-- Textured red blazer  
-- Layered gold chains  
-- Dramatic, cinematic lighting  
-- Deep amber-red gradient background  
-
-## 👗 Casual Chic Style
-
-![Casual Look](./images/casual_look.jfif)
-
-- Black high-neck top  
-- High-waisted jeans  
-- Casual, confident stance with audience in background  
 
 
 
