@@ -9,26 +9,14 @@ This project highlights two distinct editorial looks featuring strong fashion ae
 
 ---
 
-## 🖼️ Portrait in Red Blazer
+## 🖼️ Sample Images from the Project
 
-![Red Blazer Portrait](./images/ChatGPT%20Image%20Jun%2014,%202025,%2011_50_30%20AM.png)
+### 🔹 Image 1 - JFIF Format
+![Download JFIF](Addition/images/download.jfif)
 
-- Textured red blazer  
-- Layered gold chains  
-- Dramatic, cinematic lighting  
-- Deep amber-red gradient background  
+### 🔹 Image 2 - Red Blazer
+![Red Blazer](Addition/images/red_blazer.png)
 
----
-
-## 👗 Casual Chic Style
-
-![Casual Look](./images/download.jfif)
-
-- Black high-neck top  
-- High-waisted jeans  
-- Casual, confident stance with audience in background  
-
----
 
 ## ✨ Prompt Used to Edit Red Blazer Photo
 
